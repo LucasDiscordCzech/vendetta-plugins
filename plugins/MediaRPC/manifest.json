@@ -1,0 +1,7 @@
+{
+  "name": "MediaRPC",
+  "description": "Show your media playback status on your Discord profile.",
+  "vendetta": {
+    "icon": "ic_media_play"
+  }
+}
